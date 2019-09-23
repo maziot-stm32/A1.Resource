@@ -8,3 +8,9 @@
 ## STM32CubeIDE配置习惯
 
 待补充
+
+## 工程建立顺序
+
+1. f103rc.msb.gpio.led
+2. f103rc.msb.gpio.key
+3. f103rc.msb.exti.key
